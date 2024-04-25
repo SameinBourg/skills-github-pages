@@ -1,4 +1,4 @@
-### Test Title
+## Test Title
 ---
 title: Welcome to my blog
 ---
